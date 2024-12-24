@@ -56,7 +56,7 @@ To use **Libft** in your projects:
 
 3. Run your program:
    ```bash
-   ./your_program
+   ./libft
    ```
 
 ---
@@ -103,7 +103,7 @@ Contributions are not accepted for this project, as it is an academic assignment
 ---
 
 ## Author
-Developed by **[Your Name]** as part of the curriculum at **1337 School**, a member of the 42 Network.
+Developed by **mkatfi** as part of the curriculum at **1337 School**, a member of the 42 Network.
 
 ---
 
