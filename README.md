@@ -99,6 +99,3 @@ This project is intended for educational purposes and is subject to the rules an
 
 ## Acknowledgments
 Special thanks to 1337 School and its peer-to-peer learning community for creating such a challenging and rewarding environment.
-
----
-```
