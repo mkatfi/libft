@@ -4,8 +4,7 @@ Here’s the updated version of the `README.md` with your username `mkatfi` incl
 
 
 # Libft - 1337 School Custom C Library
-
-![Libft Banner](https://via.placeholder.com/1200x400?text=Libft+Project)  
+![Libft Banner](https://github.com/user-attachments/assets/c37a59df-3dd9-4503-b97f-ff24cd1a8206)
 *Your first step into building a custom C library*
 
 ---
