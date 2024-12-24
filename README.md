@@ -119,4 +119,4 @@ Special thanks to 1337 School and its peer-to-peer learning community for creati
 
 ```
 
-You can adjust placeholders like mkatfi and your GitHub repository link. Let me know if you’d like any additional changes!
+You can adjust placeholders like `[Your Name]` and your GitHub repository link. Let me know if you’d like any additional changes!
