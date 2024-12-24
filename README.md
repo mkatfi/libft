@@ -1,4 +1,4 @@
-Here’s the updated version of the `README.md` with your username `mkatfi` included:
+Here’s the updated version of the `README.md` with  `mkatfi` included:
 
 ---
 
@@ -6,9 +6,7 @@ Here’s the updated version of the `README.md` with your username `mkatfi` incl
 # Libft - 1337 School Custom C Library
 ![Libft Banner](https://github.com/user-attachments/assets/c37a59df-3dd9-4503-b97f-ff24cd1a8206)
 *Your first step into building a custom C library*
-
 ---
-
 ## Overview
 **Libft** is a custom implementation of essential C library functions and additional utility functions, developed as part of the 1337 School curriculum. The goal of this project is to strengthen understanding of low-level programming concepts, memory management, and reusable code design. This library will serve as the foundation for future projects.
 
