@@ -2,7 +2,7 @@ Here’s a polished `README.md` for your **libft** project, designed for clarity
 
 ---
 
-```markdown
+
 # Libft - 1337 School Custom C Library
 
 ## Overview
@@ -30,7 +30,7 @@ To use this library, you need:
    ```bash
    git clone https://github.com/your_username/libft.git
    cd libft
-   ```
+
 
 2. Build the library:
    ```bash
