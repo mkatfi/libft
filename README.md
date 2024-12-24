@@ -1,9 +1,14 @@
-Here’s a polished `README.md` for your **libft** project, designed for clarity and professionalism:
+Here’s the updated version of the `README.md` with your username `mkatfi` included:
 
 ---
 
 
 # Libft - 1337 School Custom C Library
+
+![Libft Banner](https://via.placeholder.com/1200x400?text=Libft+Project)  
+*Your first step into building a custom C library*
+
+---
 
 ## Overview
 **Libft** is a custom implementation of essential C library functions and additional utility functions, developed as part of the 1337 School curriculum. The goal of this project is to strengthen understanding of low-level programming concepts, memory management, and reusable code design. This library will serve as the foundation for future projects.
@@ -38,26 +43,6 @@ To use this library, you need:
    ```
 
    This will generate a `libft.a` file, which is your compiled static library.
-
----
-
-## Usage
-To use **Libft** in your projects:
-
-1. Include the header file in your code:
-   ```c
-   #include "libft.h"
-   ```
-
-2. Compile your program with the library:
-   ```bash
-   gcc -Wall -Wextra -Werror your_program.c libft.a -o your_program
-   ```
-
-3. Run your program:
-   ```bash
-   ./libft
-   ```
 
 ---
 
@@ -116,7 +101,4 @@ This project is intended for educational purposes and is subject to the rules an
 Special thanks to 1337 School and its peer-to-peer learning community for creating such a challenging and rewarding environment.
 
 ---
-
 ```
-
-You can adjust placeholders like mkatfi and your GitHub repository link. Let me know if you’d like any additional changes!
