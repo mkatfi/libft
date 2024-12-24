@@ -28,7 +28,7 @@ To use this library, you need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/libft.git
+   git clone https://github.com/mkatfi/libft.git
    cd libft
 
 
@@ -119,4 +119,4 @@ Special thanks to 1337 School and its peer-to-peer learning community for creati
 
 ```
 
-You can adjust placeholders like `[Your Name]` and your GitHub repository link. Let me know if you’d like any additional changes!
+You can adjust placeholders like mkatfi and your GitHub repository link. Let me know if you’d like any additional changes!
